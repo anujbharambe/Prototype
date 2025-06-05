@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+langgraph
+google-generativeai
+python-dotenv
+langchain_community
+langchain_chroma
+pypdf
+langchain_core
+typing
+ipython
+unstructured
+networkx
+pandas
+openpyxl
+langchain_ollama
