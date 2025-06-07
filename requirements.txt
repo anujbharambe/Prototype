@@ -14,3 +14,6 @@ networkx
 pandas
 openpyxl
 langchain_ollama
+langchain_chroma
+dateparser
+json
